@@ -7,4 +7,5 @@ export const BD_DATABASE = process.env.BD_DATABASE || 'railway';
 export const DB_USER = process.env.DB_USER || 'root';
 export const DB_PASSWORD = process.env.DB_PASSWORD || 'swvfEevvelnllbrrWdXKyOsGbXyHqquz';
 export const DB_PORT = process.env.DB_PORT || 55644;
-export const PORT = process.env.PORT || 3000;
+export const PORT = process.env.PORT || 10000;
+console.log("Ella no te ama Alexis");
