@@ -1,4 +1,5 @@
 import { config } from 'dotenv';
+console.log("Ella no te ama Alexis");
 config();
 
 export const BD_HOST = process.env.BD_HOST || 'autorack.proxy.rlwy.net';
