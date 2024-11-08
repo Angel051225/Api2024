@@ -5,7 +5,7 @@ import { fileURLToPath } from 'url';
 import clientesRoutes from './routes/clientes.routes.js'
 import usuariosRoutes from './routes/usuarios.routes.js'
 import productosRoutes from './routes/productos.routes.js'
-
+console.log("AngelP25")
 //definir modulo de ES
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
